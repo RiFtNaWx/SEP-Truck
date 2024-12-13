@@ -1,13 +1,14 @@
+---
 # SEP-Truck
 
 Create a public Git repository and upload the answer to question 3 in a Markdown format.
 Add all your team members as contributors to the repository. Create at least 2 (TWO) commits
 to the repository.
 
+<br>
 
-Design a system for a container truck company to manage logistic and business operations
 
-## Functional Requirements
+### <ins>Functional Requirements<ins/>
 1. Registration and login for **user**.
 2. Registrations and managements of **container trucks**.
 3. Assign the **roles** (administrator, dispatcher, driver, customer) for each user.
@@ -25,10 +26,12 @@ Design a system for a container truck company to manage logistic and business op
 15. 24/7 **Customer Service**.
 
 
-## Non-functional Requirements
+### <ins>Non-functional Requirements<ins/>
 1. Handle up to at least 1000 **active users** simultaneously.
 2. 99.9% **system uptime** availability.
 3. **Accessible** 24/7 for users across different time zones.
 4. Friendly **interface** for user.
 5. Allow easy system **updates**.
 6. Higly **secure** to protect sensitive data.
+
+---
