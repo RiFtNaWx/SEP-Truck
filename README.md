@@ -7,31 +7,29 @@ to the repository.
 
 <br>
 
-
 ### <ins>Functional Requirements<ins/>
-1. Registration and login for **user**.
-2. Registrations and managements of **container trucks**.
-3. Assign the **roles** (administrator, dispatcher, driver, customer) for each user.
-4. Option to select **mutiple language**.
-5. Create, modify and cancel **delivery order** by customer.
-6. Management of **driver profiles and availability** with time.
-7. Time Schedule and assignment of every **delivery tasks**.
-8. Tracking **truck locations** in real-time such as GPS.
-9. Updating of **log delivery status** like in-transit and delivered.
-10. Generate **invoice** for completed order.
-11. **Payment services** for customer.
-12. Reporting **incidents of delivery** by driver.
-13. Schedule and notify driver to **services** the container truck.
-14. Reporting **bug** by user.
-15. 24/7 **Customer Service**.
+1. Users must be able to register and log in to the system.
+2. The system must allow registration and management of container trucks.
+3. Administrators must be able to assign roles (administrator, dispatcher, driver, customer) for each user.
+4. Users should be able to select multiple language options.
+5. Customers must be able to create, modify, and cancel delivery orders.
+6. Administrators must manage driver profiles and availability based on time.
+7. The system must schedule and assign delivery tasks with specific time slots.
+8. The system must track truck locations in real time using GPS.
+9. The system must update delivery statuses such as "in-transit" and "delivered."
+10. The system must generate invoices for completed orders.
+11. Customers must be able to make payments through integrated payment services.
+12. Drivers must be able to report delivery incidents to the system.
+13. The system must notify drivers to schedule maintenance for container trucks.
+14. Users must be able to report bugs within the system.
+15. The system must provide 24/7 customer service for user support.
 
-
-### <ins>Non-functional Requirements<ins/>
-1. Handle up to at least 1000 **active users** simultaneously.
-2. 99.9% **system uptime** availability.
-3. **Accessible** 24/7 for users across different time zones.
-4. Friendly **interface** for user.
-5. Allow easy system **updates**.
-6. Higly **secure** to protect sensitive data.
+### <ins>Non-Functional Requirements<ins/>
+1. The system must handle at least 1000 active users simultaneously.
+2. The system must ensure 99.9% uptime availability.
+3. The system must be accessible 24/7 across different time zones.
+4. The interface must be user-friendly and intuitive.
+5. The system must allow for easy updates.
+6. The system must be highly secure to protect sensitive user and operational data.
 
 ---
